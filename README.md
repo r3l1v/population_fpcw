@@ -9,8 +9,8 @@ Use cases corresponding to program options:
 1. Output names of all Cities in the list
 2. Output the population for City, x years ago
 3. Output the current list of cities
-4. Update population values for cities (demo 4)
-5. Add a new city to the list with predefined population values (from demo 5)
+4. Update population values for cities
+5. Add a new city to the list with predefined population values
 6. Output annual growth in percentage for a city
 7. Output nearest city to your location
 8. Output formatted map of cities with some of the values
